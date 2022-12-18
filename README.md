@@ -30,7 +30,7 @@
 
 ### :woman_technologist: About Me :
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :telescope: I’m working as a iOS Developer and contributing to frontend and backend for building mobile applications.
+- :telescope: I’m working as a iOS Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -53,7 +53,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 ### 💻 My LeetCode Stats : 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kkubarskiy?theme=wtf&font=Poly&ext=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kkubarskiy)](https://leetcode.com/kkubarskiy)
 
 ---
 ### :fire: My Stats :
